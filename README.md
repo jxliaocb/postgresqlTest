@@ -2,9 +2,9 @@
 
 This is my blog project with Django and postgresql. 
 It does cool stuff!
--support post and comments.
--import django-environ
--add testcases
+- Support post and comments.
+- Import django-environ
+- Add testcases
 
 ## Installation
 
