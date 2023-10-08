@@ -1,6 +1,10 @@
 # My Django Project
 
-This is my blog  project with Django and postgresql. It does cool stuff!
+This is my blog project with Django and postgresql. 
+It does cool stuff!
+-support post and comments.
+-import django-environ
+-add testcases
 
 ## Installation
 
